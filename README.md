@@ -27,8 +27,8 @@ My name is Jules Jacques Coly, apprentice developer in love with JavaScript 🥰
 <img title="Vercel" alt="Vercel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vercel-icon.svg">|<img title="Netlify" alt="Netlify" width="30px" height="30px" src="https://cdn.svgporn.com/logos/netlify.svg">|<img title="Heroku" alt="Heroku" width="30px" height="30px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">|<img title="GoogleCloud" alt="GoogleCloud" width="30px" height="30px" src="https://cdn.svgporn.com/logos/google-cloud.svg">|<img title="Composer" alt="Composer" width="30px" height="30px" src="https://cdn.svgporn.com/logos/composer.svg">|<img title="VsCode" alt="VsCode" width="30px" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">|<img title="Expo" alt="Expo" width="30px" height="30px" src="https://cdn.svgporn.com/logos/expo-icon.svg">
 |--|--|--|--|--|--|--|
 
-|<img title="Npm" alt="Npm" width="30px" height="30px" src="https://cdn.svgporn.com/logos/npm-icon.svg">|<img title="SublimeText" alt="SublimeText" width="30px" height="30px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg">|<img title="Atom" alt="Atom" width="30px" height="30px" src="https://cdn.svgporn.com/logos/atom-icon.svg">
-|--|--|--|
+|<img title="Npm" alt="Npm" width="30px" height="30px" src="https://cdn.svgporn.com/logos/npm-icon.svg">|<img title="SublimeText" alt="SublimeText" width="30px" height="30px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg">|<img title="Atom" alt="Atom" width="30px" height="30px" src="https://cdn.svgporn.com/logos/atom-icon.svg">|<img title="Github" alt="Github" width="30px" height="30px" src="https://cdn.svgporn.com/logos/github-icon.svg">|<img title="Git" alt="Git" width="30px" height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">|<img title="Git" alt="Git" width="30px" height="30px" src="https://cdn.svgporn.com/logos/postman.svg">
+|--|--|--|--|--|--|
 
 
 
