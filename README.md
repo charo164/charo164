@@ -10,7 +10,7 @@
 
 My name is Jules Jacques Coly, apprentice developer in love with JavaScript 🥰. Nothing more to say except that I ❤️ computers.
 
-![Charo164's github stats](https://github-readme-stats.vercel.app/api?username=charo164&show_icons=true&hide_border=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1515
+![Charo164's github stats](https://github-readme-stats.vercel.app/api?username=charo164&show_icons=true&hide_border=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1515)
 
 ### **Programming Languages**
 
