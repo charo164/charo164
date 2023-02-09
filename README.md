@@ -1,10 +1,10 @@
 ## **Hi there 👋**
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jjgcoly164@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-F56040?style=flat&labelColor=F56040&logo=instagram&logoColor=white)](https://www.instagram.com/charognard164)
-[![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/julesjacques.coly.1)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/JulesJacquesCo1)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/charo164)
+[![Instagram](https://img.shields.io/badge/-Instagram-F56040?style=flat&labelColor=F56040&logo=instagram&logoColor=white)](https://www.instagram.com/jaco_164)
+[![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/jaco164)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jaco_164)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/jaco_164)
 
 My name is Jules Jacques Coly, apprentice developer in love with JavaScript 🥰. Nothing more to say except that I ❤️ computers.
 
